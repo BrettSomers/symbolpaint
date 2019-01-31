@@ -1,0 +1,5 @@
+
+'''use this to clear the screen before running a "symbolpaint" script so that your characters are in the right postion'''
+
+def cls(): print("\n" * 100)
+cls()
